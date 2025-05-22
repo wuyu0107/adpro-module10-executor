@@ -10,7 +10,7 @@
     });
     println!("Min's Computer: hey hey");
 ```
-![](/timer_future/images/image1-2.png)
+![](/images/image1-2.png)
 
 When we execute the program, the output appears in order shown in the picture above. The message with 'hey hey' comes first, followed by a message with 'howdy!', then after 2 second delay, it prints the 'done!' message. This occurs because of the asynchronous task system. 
 
